@@ -11,8 +11,8 @@ print('세 정수의 최댓값을 구합니다.')
 
 # 정수 세 개 입력
 a = int(input('정수 a의 값을 입력하시오.: '))
-a = int(input('정수 a의 값을 입력하시오.: '))
-a = int(input('정수 a의 값을 입력하시오.: '))
+b = int(input('정수 b의 값을 입력하시오.: '))
+c = int(input('정수 c의 값을 입력하시오.: '))
 
 # 기본값 설정
 maximum = a

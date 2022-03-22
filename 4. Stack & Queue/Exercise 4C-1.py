@@ -19,7 +19,7 @@ class Stack:
 
     def is_empty(self) -> bool:
         """스택이 비어 있는지 판단"""
-        return not self._stk
+        return not self.__stk
 
     def is_full(self) -> bool:
         """스택이 가득 차 있는지 판단"""
